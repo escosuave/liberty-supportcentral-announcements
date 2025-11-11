@@ -19,12 +19,12 @@ This repository contains the **announcement banners** that appear on the Liberty
 
 ### Adding a New Announcement
 
-1. **Edit `announcements.html`**
+1. **Edit `announcements-us.html`** (US) or `announcements-ca.html` (Canada)
 2. **Add your banner** using the template below
 3. **Commit:** `git commit -am "Add [topic] announcement"`
 4. **Push:** `git push origin main`
 5. **Wait 2-5 minutes** for deployment
-6. **Verify** at https://supportcentral.libertytax.net/hc/en-us
+6. **Verify** at https://supportcentral.libertytax.net/hc/en-us (US) or https://supportcentralcanada.libertytax.net/hc/en-us (Canada)
 
 **That's it.** No PR required. No feature branches. Just edit, commit, push.
 
@@ -103,7 +103,7 @@ Announcements display **top to bottom** by priority:
 ```
 
 **Workflow:**
-1. Edited `announcements.html` directly
+1. Edited `announcements-us.html` directly
 2. Added at top (Priority 1 - infrastructure issue)
 3. Committed: `git commit -am "Add Azure performance issue announcement"`
 4. Pushed: `git push origin main`
@@ -114,7 +114,7 @@ Announcements display **top to bottom** by priority:
 ## 📋 Maintenance Checklist
 
 ### Weekly
-- [ ] Remove resolved/outdated announcements
+- [ ] Remove resolved/outdated announcements (archive them first!)
 - [ ] Verify all links still work
 - [ ] Adjust priorities if needed
 
@@ -122,11 +122,13 @@ Announcements display **top to bottom** by priority:
 - [ ] Review color choices (still appropriate?)
 - [ ] Check mobile display
 - [ ] Verify accessibility (contrast, link text)
+- [ ] Review archive files for patterns/trends
 
 ### As Needed
 - [ ] Add urgent announcements immediately
 - [ ] Update text when situations change
 - [ ] Reorder based on priority
+- [ ] Archive removed announcements
 
 ---
 
@@ -274,12 +276,13 @@ git push origin main
 ## 🤖 For AI Assistants
 
 ### What You Can Do
-- ✅ Edit `announcements.html` directly
+- ✅ Edit `announcements-us.html` or `announcements-ca.html` directly
 - ✅ Add new announcements using templates
 - ✅ Update existing announcement text
-- ✅ Remove outdated announcements
+- ✅ Remove outdated announcements (archive them first!)
 - ✅ Reorder by priority
 - ✅ Update tracking comments
+- ✅ Archive removed announcements
 
 ### What You Should Ask First
 - ⚠️ Verify link URLs are correct
@@ -300,10 +303,11 @@ git push origin main
 ### First Time Here?
 
 1. Read this README
-2. Look at `announcements.html` to see current structure
+2. Look at `announcements-us.html` or `announcements-ca.html` to see current structure
 3. Use templates above for new announcements
 4. Test your HTML syntax before pushing
 5. Verify deployment after push
+6. Archive removed announcements for historical reference
 
 ### Need Help?
 
@@ -319,25 +323,65 @@ git push origin main
 **Remote:** https://github.com/escosuave/liberty-supportcentral-announcements.git  
 **Branch:** main  
 **Files:** 
-- `announcements.html` - The announcement banners (edit this)
+- `announcements-us.html` - US announcement banners (edit this for US)
+- `announcements-ca.html` - Canada announcement banners (edit this for Canada)
+- `announcements-us-archive.md` - Archive of removed US announcements
+- `announcements-ca-archive.md` - Archive of removed Canada announcements
 - `README.md` - This file (documentation)
 
 **Deployment:** Zendesk auto-deploy on push to main  
-**Production URL:** https://supportcentral.libertytax.net/hc/en-us
+**Production URLs:** 
+- US: https://supportcentral.libertytax.net/hc/en-us
+- Canada: https://supportcentralcanada.libertytax.net/hc/en-us
+
+---
+
+## 📚 Archive Files
+
+**Purpose:** Historical record of removed announcements for auditing and reference.
+
+**Files:**
+- `announcements-us-archive.md` - US announcements archive
+- `announcements-ca-archive.md` - Canada announcements archive
+
+**When to Archive:**
+- ✅ When removing expired announcements (deadlines passed)
+- ✅ When removing resolved issues
+- ✅ When removing outdated information
+- ✅ When replacing with newer announcements
+
+**How to Archive:**
+1. Copy the full HTML block (including comments) from the active file
+2. Paste into the appropriate archive file (`announcements-us-archive.md` or `announcements-ca-archive.md`)
+3. Add metadata: Date removed, Reason for removal
+4. Include display text for quick reference
+5. Maintain chronological order (newest removals at top)
+
+**Why Archive?**
+- 📋 **Audit Trail:** Track what was shown and when
+- 🔍 **Reference:** Reuse past announcements or wording
+- 📊 **Compliance:** Historical record for documentation
+- 🎯 **Patterns:** Identify recurring issues or topics
+
+**Example Archive Entry:**
+```markdown
+### Windows 10 End of Support
+**Priority:** 5 (Critical Deadline)  
+**Date Added:** [Previous]  
+**Date Removed:** 2025-01-30  
+**Reason:** Expired deadline (deadline was 2025-10-14)  
+**Article ID:** 4410646721687
+
+[Original HTML and display text...]
+```
 
 ---
 
 ## 🔍 Current Active Announcements
 
-*As of last update:*
-
-1. **Azure Performance** (Priority 1) - Blue banner
-2. **OCP Auto-Update** (Priority 2) - Blue banner
-3. **LINK/LRC Login** (Priority 3) - Blue banner
-4. **User Manager Inactivity** (Priority 4) - Blue banner
-5. **Windows 10 EOL** (Priority 5) - Red banner
-
-*Check `announcements.html` for current state.*
+*Check the active announcement files for current state:*
+- US: `announcements-us.html`
+- Canada: `announcements-ca.html`
 
 ---
 
@@ -364,7 +408,7 @@ git push origin main
 
 **Questions? See main workspace `ANNOUNCEMENT_WORKFLOW.md` for detailed procedures.**
 
-**Ready to update? Edit `announcements.html` and push!** 🚀
+**Ready to update? Edit `announcements-us.html` or `announcements-ca.html` and push!** 🚀
 
-*Last updated: 2025-10-29*
+*Last updated: 2025-01-30*
 
