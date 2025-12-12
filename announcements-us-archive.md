@@ -15,6 +15,62 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Support Hours – 2025–2026 Season (US)
+**Priority:** 5 (Product Update)  
+**Category:** Product Update  
+**Topic:** Updated Support Hours for Tech, Tax, and Financial Product Teams  
+**Date Added:** 2025-12-03  
+**Date Removed:** 2025-12-12  
+**Reason:** Removed from home page to reduce banner clutter and enforce max 3 active banners (info remains available via KB article).  
+**Article ID:** 360055050314  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/360055050314-What-are-the-support-hours-for-the-Tech-Tax-and-Financial-Product-teams
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 5: Support Hours - Active - US ONLY -->
+<!-- Topic: Updated Support Hours for Tech, Tax, and Financial Product Teams | Added: 2025-12-03 | Article: 360055050314 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Support hours for the Tech, Tax, and Financial Product teams have been updated for the 2025–2026 season. Review the current schedule 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/360055050314-What-are-the-support-hours-for-the-Tech-Tax-and-Financial-Product-teams" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Support hours for the Tech, Tax, and Financial Product teams have been updated for the 2025–2026 season. Review the current schedule [here](https://supportcentral.libertytax.net/hc/en-us/articles/360055050314-What-are-the-support-hours-for-the-Tech-Tax-and-Financial-Product-teams).
+
+---
+
+### Equipment Requirements – 2025–2026 Season (US)
+**Priority:** 6 (Product Update)  
+**Category:** Product Update  
+**Topic:** Updated Equipment Requirements for U.S. Offices (2025–2026)  
+**Date Added:** 2025-12-03  
+**Date Removed:** 2025-12-12  
+**Reason:** Removed from home page to reduce banner clutter and enforce max 3 active banners (info remains available via KB article).  
+**Article ID:** 360058345973  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/360058345973-Equipment-requirements-for-U-S-Offices-2025-2026
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 6: Equipment Requirements - Active - US ONLY -->
+<!-- Topic: Updated Equipment Requirements for U.S. Offices (2025–2026) | Added: 2025-12-03 | Article: 360058345973 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Make sure your U.S. office meets the updated equipment requirements for the 2025–2026 season before tax season begins. Review the full list 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/360058345973-Equipment-requirements-for-U-S-Offices-2025-2026" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Make sure your U.S. office meets the updated equipment requirements for the 2025–2026 season before tax season begins. Review the full list [here](https://supportcentral.libertytax.net/hc/en-us/articles/360058345973-Equipment-requirements-for-U-S-Offices-2025-2026).
+
+---
+
 ### Windows 10 End of Support
 **Priority:** 5 (Critical Deadline)  
 **Category:** Critical Deadline  
@@ -60,5 +116,7 @@ When removing an announcement:
 
 ---
 
-*Last updated: 2025-01-30*
+*Last updated: 2025-12-12*
+
+
 
