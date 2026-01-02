@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### OCP Auto-Update (US)
+**Priority:** 2 (Product Update)  
+**Category:** Product Update  
+**Topic:** OCP Auto-Update  
+**Date Added:** [Previous]  
+**Date Removed:** 2026-01-02  
+**Reason:** Rotated off home page to enforce max 3 active banners (info remains available via KB article).  
+**Article ID:** 35784552630423  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/35784552630423-Online-Check-Printing-OCP-will-now-update-to-the-newest-version-automatically
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Product Update - Active -->
+<!-- Topic: OCP Auto-Update | Added: [Previous] | Article: 35784552630423 -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Great News! Online Check Printing (OCP) will now update to the newest version automatically. Read more 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/35784552630423-Online-Check-Printing-OCP-will-now-update-to-the-newest-version-automatically" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Great News! Online Check Printing (OCP) will now update to the newest version automatically. Read more [here](https://supportcentral.libertytax.net/hc/en-us/articles/35784552630423-Online-Check-Printing-OCP-will-now-update-to-the-newest-version-automatically).
+
+---
+
 ### Support Hours – 2025–2026 Season (US)
 **Priority:** 5 (Product Update)  
 **Category:** Product Update  
@@ -116,7 +144,7 @@ When removing an announcement:
 
 ---
 
-*Last updated: 2025-12-12*
+*Last updated: 2026-01-02*
 
 
 
