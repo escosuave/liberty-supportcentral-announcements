@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### User Manager Inactivity (US)
+**Priority:** 3 (Account Management)  
+**Category:** Account Management  
+**Topic:** User Manager Inactivity  
+**Date Added:** [Previous]  
+**Date Removed:** 2026-01-02  
+**Reason:** Rotated off home page to make room for higher-impact, time-sensitive guidance (trending Admin access tickets); info remains available via KB article.  
+**Article ID:** 6961988401559  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/6961988401559-How-Do-I-Reactivate-a-Disabled-Employee-Account
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 3: Account Management - Active -->
+<!-- Topic: User Manager Inactivity | Added: [Previous] | Article: 6961988401559 -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+   User Manager accounts are automatically disabled after 30 days of inactivity. Learn how to reactivate your staff's accounts
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/6961988401559-How-Do-I-Reactivate-a-Disabled-Employee-Account" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> User Manager accounts are automatically disabled after 30 days of inactivity. Learn how to reactivate your staff's accounts [here](https://supportcentral.libertytax.net/hc/en-us/articles/6961988401559-How-Do-I-Reactivate-a-Disabled-Employee-Account).
+
+---
+
 ### OCP Auto-Update (US)
 **Priority:** 2 (Product Update)  
 **Category:** Product Update  
