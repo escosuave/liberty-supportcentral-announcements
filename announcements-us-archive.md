@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### OB3 / Schedule 1-A Guidance (US)
+**Priority:** 3 (Product Update)  
+**Category:** Product Update  
+**Topic:** Don’t Forget OB3: Add Schedule 1-A for Accurate Easy Advance & Holiday Advance Estimates  
+**Date Added:** 2026-01-02  
+**Date Removed:** 2026-01-02  
+**Reason:** Archived to make room for the Fusion Vantage Reporting update banner; OB3 guidance remains available via KB article.  
+**Article ID:** 37400405507863  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/37400405507863-Don-t-Forget-OB3-Add-Schedule-1-A-for-Accurate-Easy-Advance-Holiday-Advance-Estimates
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Product Update - Active - US ONLY -->
+<!-- Topic: Don’t Forget OB3: Add Schedule 1-A for Accurate Easy Advance & Holiday Advance Estimates | Added: 2026-01-02 | Article: 37400405507863 (US) | Context: Vendor (Drake) delay; keep tone informational to avoid discouraging office submissions -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Don’t forget OB3: Add Schedule 1-A for accurate Easy Advance & Holiday Advance estimates. Review the guidance 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/37400405507863-Don-t-Forget-OB3-Add-Schedule-1-A-for-Accurate-Easy-Advance-Holiday-Advance-Estimates" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Don’t forget OB3: Add Schedule 1-A for accurate Easy Advance & Holiday Advance estimates. Review the guidance [here](https://supportcentral.libertytax.net/hc/en-us/articles/37400405507863-Don-t-Forget-OB3-Add-Schedule-1-A-for-Accurate-Easy-Advance-Holiday-Advance-Estimates).
+
+---
+
 ### User Manager Inactivity (US)
 **Priority:** 3 (Account Management)  
 **Category:** Account Management  
