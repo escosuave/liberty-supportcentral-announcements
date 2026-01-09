@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### HA Updated Experience (US)
+**Priority:** 4 (Product Update)  
+**Category:** Product Update  
+**Topic:** Updated HA (Holiday Advance) Experiences  
+**Date Added:** 2025-12-09  
+**Date Removed:** 2026-01-02  
+**Reason:** Archived per request; no longer needed on the home page (article remains available via KB link).  
+**Article ID:** 36886180965143  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/36886180965143-Holiday-Advance-HA-Updated-Experience-Overview-FAQs
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 4: Product Update - Active - US ONLY -->
+<!-- Topic: Updated HA (Holiday Advance) Experiences | Added: 2025-12-09 | Article: 36886180965143 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    We’ve updated the Holiday Advance (HA) experience for this season. Review the new process, scenarios, and FAQs 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/36886180965143-Holiday-Advance-HA-Updated-Experience-Overview-FAQs" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> We’ve updated the Holiday Advance (HA) experience for this season. Review the new process, scenarios, and FAQs [here](https://supportcentral.libertytax.net/hc/en-us/articles/36886180965143-Holiday-Advance-HA-Updated-Experience-Overview-FAQs).
+
+---
+
 ### OB3 / Schedule 1-A Guidance (US)
 **Priority:** 3 (Product Update)  
 **Category:** Product Update  
