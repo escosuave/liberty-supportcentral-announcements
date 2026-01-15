@@ -389,7 +389,7 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
-| 2026-01-02 | Added Federal Reject X0000-033 known issue announcement (Priority 1) | c54d8c4 |
+| 2026-01-15 | Added Federal Reject X0000-033 known issue announcement (Priority 1) | c54d8c4 |
 | 2025-10-29 | Added Azure performance announcement | c36dcc2 |
 | 2025-10-29 | Added README and tracking system | [current] |
 
@@ -411,5 +411,5 @@ git push origin main
 
 **Ready to update? Edit `announcements-us.html` or `announcements-ca.html` and push!** 🚀
 
-*Last updated: 2026-01-02*
+*Last updated: 2026-01-15*
 
