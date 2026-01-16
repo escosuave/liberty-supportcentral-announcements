@@ -411,6 +411,13 @@ git push origin main
 
 **Questions? See main workspace `ANNOUNCEMENT_WORKFLOW.md` for detailed procedures.**
 
+**Need to make changes in 10 minutes or less?**  
+👉 See `GITHUB_QUICK_EDIT_GUIDE.md` for direct GitHub web editing workflow
+
+**Templates available:**
+- `.github/TEMPLATE_NEW_BANNER.md` - Copy-paste banner templates
+- `.github/TEMPLATE_ARCHIVE_ENTRY.md` - Archive entry format
+
 **Ready to update? Edit `announcements-us.html` or `announcements-ca.html` and push!** 🚀
 
 *Last updated: 2026-01-15*
