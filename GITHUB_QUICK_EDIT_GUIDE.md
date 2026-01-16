@@ -240,7 +240,7 @@
 
 1. **Navigate** (1 min): https://github.com/escosuave/liberty-supportcentral-announcements → `announcements-us.html`
 2. **Edit** (2 min): Click pencil → Insert Template 2 at top → Fill in details
-3. **Commit** (1 min): Message: `Add System Maintenance known issue announcement` → Commit to main
+3. **Commit** (1 min): Message: `Add System Maintenance known issue announcement` → Commit directly to main branch
 4. **Verify** (3 min): Wait 2 min → Visit US help center → Hard refresh → Check banner
 5. **Track** (3 min): Edit `README.md` → Add to Version History → Commit tracking update
 
