@@ -389,6 +389,7 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
+| 2026-01-15 | Replaced User Manager banner with Fusion AI Assistant (US & CA) | [pending commit] |
 | 2026-01-15 | Updated banner 2: Added IL to states not getting invoiced | 52ffe17 |
 | 2026-01-15 | Added Federal Reject X0000-033 known issue announcement (Priority 1) | c54d8c4 |
 | 2025-10-29 | Added Azure performance announcement | c36dcc2 |

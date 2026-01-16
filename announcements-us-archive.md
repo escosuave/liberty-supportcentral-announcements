@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### User Manager Inactivity (US) - Second Removal
+**Priority:** 4 (Account Management)  
+**Category:** Account Management  
+**Topic:** User Manager Inactivity / Reactivating Disabled Employee Accounts  
+**Date Added:** 2026-01-02  
+**Date Removed:** 2026-01-15  
+**Reason:** Replaced with Fusion AI Assistant announcement; info remains available via KB article.  
+**Article ID:** 6961988401559  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/6961988401559-How-can-I-reactivate-employee-accounts-that-are-disabled
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 4: Account Management - Active - US ONLY -->
+<!-- Topic: User Manager Inactivity / Reactivating Disabled Employee Accounts | Added: 2026-01-02 | Article: 6961988401559 (US) | Context: High ticket volume; special circumstances - keep alongside other active banners -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    User Manager accounts are automatically disabled after 30 days of inactivity. Learn how to reactivate employee accounts 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/6961988401559-How-can-I-reactivate-employee-accounts-that-are-disabled" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> User Manager accounts are automatically disabled after 30 days of inactivity. Learn how to reactivate employee accounts [here](https://supportcentral.libertytax.net/hc/en-us/articles/6961988401559-How-can-I-reactivate-employee-accounts-that-are-disabled).
+
+---
+
 ### HA Updated Experience (US)
 **Priority:** 4 (Product Update)  
 **Category:** Product Update  

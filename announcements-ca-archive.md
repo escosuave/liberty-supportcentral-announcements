@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### User Manager Inactivity (CA)
+**Priority:** 1 (Account Management)  
+**Category:** Account Management - BOTH BRANDS  
+**Topic:** User Manager Inactivity  
+**Date Added:** [Previous]  
+**Date Removed:** 2026-01-15  
+**Reason:** Replaced with Fusion AI Assistant announcement; info remains available via KB article.  
+**Article ID:** 35969296114199  
+**Article URL:** https://supportcentralcanada.libertytax.net/hc/en-us/articles/35969296114199-How-Do-I-Reactivate-a-Disabled-Employee-Account
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Account Management - Active - BOTH BRANDS -->
+<!-- Topic: User Manager Inactivity | Added: [Previous] | Article: 35969296114199 (CA) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+   User Manager accounts are automatically disabled after 30 days of inactivity. Learn how to reactivate your staff's accounts
+    <a href="https://supportcentralcanada.libertytax.net/hc/en-us/articles/35969296114199-How-Do-I-Reactivate-a-Disabled-Employee-Account" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> User Manager accounts are automatically disabled after 30 days of inactivity. Learn how to reactivate your staff's accounts [here](https://supportcentralcanada.libertytax.net/hc/en-us/articles/35969296114199-How-Do-I-Reactivate-a-Disabled-Employee-Account).
+
+---
+
 ### Windows 10 End of Support
 **Priority:** 2 (Critical Deadline)  
 **Category:** Critical Deadline - BOTH BRANDS  
@@ -60,5 +88,5 @@ When removing an announcement:
 
 ---
 
-*Last updated: 2025-01-30*
+*Last updated: 2026-01-15*
 
