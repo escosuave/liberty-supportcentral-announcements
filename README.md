@@ -389,6 +389,7 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
+| 2026-01-15 | Add Federal Reject R0000-120 known issue announcement (Priority 4) | c48a8ae |
 | 2026-01-15 | Replaced User Manager banner with Fusion AI Assistant (US & CA) | e63e5d9 |
 | 2026-01-15 | Updated banner 2: Added IL to states not getting invoiced | 52ffe17 |
 | 2026-01-15 | Added Federal Reject X0000-033 known issue announcement (Priority 1) | c54d8c4 |
