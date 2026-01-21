@@ -15,6 +15,118 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Federal Reject R0000-120 (US)
+**Priority:** 4 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Federal Reject R0000-120  
+**Date Added:** 2026-01-15  
+**Date Removed:** 2026-01-15  
+**Reason:** Issue resolved; info remains available via KB article.  
+**Article ID:** 37778048415511  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/37778048415511-RESOLVED-Federal-Reject-R0000-120
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 4: Known Issue - Active - US ONLY -->
+<!-- Topic: Federal Reject R0000-120 | Added: 2026-01-15 | Article: 37778048415511 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Federal returns are being rejected with error R0000-120. Details and updates 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/37778048415511-RESOLVED-Federal-Reject-R0000-120" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Federal returns are being rejected with error R0000-120. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/37778048415511-RESOLVED-Federal-Reject-R0000-120).
+
+---
+
+### Cannot Create/Edit Promotion Codes (US)
+**Priority:** 3 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Cannot create/edit promotion codes  
+**Date Added:** 2026-01-02  
+**Date Removed:** 2026-01-15  
+**Reason:** Issue resolved; info remains available via KB article.  
+**Article ID:** 37614429634967  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/37614429634967-Why-can-t-I-create-or-edit-promotion-codes
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 3: Known Issue - Active - US ONLY -->
+<!-- Topic: Cannot create/edit promotion codes | Added: 2026-01-02 | Article: 37614429634967 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Unable to create or edit promotion codes. Details and updates 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/37614429634967-Why-can-t-I-create-or-edit-promotion-codes" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Unable to create or edit promotion codes. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/37614429634967-Why-can-t-I-create-or-edit-promotion-codes).
+
+---
+
+### Some States Not Getting Invoiced (US)
+**Priority:** 2 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Some states not getting invoiced (see article)  
+**Date Added:** 2026-01-02  
+**Date Removed:** 2026-01-15  
+**Reason:** Issue resolved; info remains available via KB article.  
+**Article ID:** 37612401064343  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/37612401064343-Why-are-some-states-not-getting-invoiced-CA-WI-UT-NJ
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Known Issue - Active - US ONLY -->
+<!-- Topic: Some states not getting invoiced (see article) | Added: 2026-01-02 | Article: 37612401064343 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Some states are not getting invoiced (the full list of affected states). Details and updates 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/37612401064343-Why-are-some-states-not-getting-invoiced-CA-WI-UT-NJ" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Some states are not getting invoiced (the full list of affected states). Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/37612401064343-Why-are-some-states-not-getting-invoiced-CA-WI-UT-NJ).
+
+---
+
+### Federal Reject X0000-033 (US)
+**Priority:** 1 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Federal Reject X0000-033  
+**Date Added:** 2026-01-15  
+**Date Removed:** 2026-01-15  
+**Reason:** Issue resolved; info remains available via KB article.  
+**Article ID:** 37707854225943  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/37707854225943-KNOWN-ISSUE-Federal-Reject-X0000-033
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Known Issue - Active - US ONLY -->
+<!-- Topic: Federal Reject X0000-033 | Added: 2026-01-15 | Article: 37707854225943 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Federal returns are being rejected with error X0000-033. Details and updates 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/37707854225943-KNOWN-ISSUE-Federal-Reject-X0000-033" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Federal returns are being rejected with error X0000-033. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/37707854225943-KNOWN-ISSUE-Federal-Reject-X0000-033).
+
+---
+
 ### User Manager Inactivity (US) - Second Removal
 **Priority:** 4 (Account Management)  
 **Category:** Account Management  
