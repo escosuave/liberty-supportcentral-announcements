@@ -389,6 +389,7 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
+| 2026-01-15 | Add Client Data Sheet known issue announcement (Priority 1) | c82f750 |
 | 2026-01-15 | Archive 4 resolved known issue banners (Federal Rejects, invoicing, promotion codes) | fdefaf0 |
 | 2026-01-15 | Add Federal Reject R0000-120 known issue announcement (Priority 4) | c48a8ae |
 | 2026-01-15 | Replaced User Manager banner with Fusion AI Assistant (US & CA) | e63e5d9 |
