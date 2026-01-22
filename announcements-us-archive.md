@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Smart App Control Blocking OCP on Windows 11 (US) - On Standby
+**Priority:** 2 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Smart App Control may block Online Check Printing on Windows 11  
+**Date Added:** 2026-01-15  
+**Date Removed:** 2026-01-15  
+**Reason:** Removed from active announcements; kept on standby for potential future use if issue escalates.  
+**Article ID:** 37857859068183  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/37857859068183-Known-issue-Smart-App-Control-may-block-Online-Check-Printing-on-Windows-11
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Known Issue - Active - US ONLY -->
+<!-- Topic: Smart App Control may block Online Check Printing on Windows 11 | Added: 2026-01-15 | Article: 37857859068183 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Online Check Printing (OCP) may not run on Windows 11 due to Smart App Control blocking it. Details and updates 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/37857859068183-Known-issue-Smart-App-Control-may-block-Online-Check-Printing-on-Windows-11" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Online Check Printing (OCP) may not run on Windows 11 due to Smart App Control blocking it. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/37857859068183-Known-issue-Smart-App-Control-may-block-Online-Check-Printing-on-Windows-11).
+
+---
+
 ### Federal Reject R0000-120 (US)
 **Priority:** 4 (Known Issue)  
 **Category:** Known Issue  
