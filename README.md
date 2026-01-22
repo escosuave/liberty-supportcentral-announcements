@@ -389,6 +389,7 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
+| 2026-01-15 | Add Smart App Control blocking OCP known issue banner (Priority 2) | 637e36d |
 | 2026-01-15 | Add Schedule 1-A Input Cheat Sheet banner (Priority 2) | 874da85 |
 | 2026-01-15 | Add Client Data Sheet known issue announcement (Priority 1) | c82f750 |
 | 2026-01-15 | Archive 4 resolved known issue banners (Federal Rejects, invoicing, promotion codes) | fdefaf0 |
