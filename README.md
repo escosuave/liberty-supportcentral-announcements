@@ -389,6 +389,7 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
+| 2026-01-15 | Add Microsoft service disruption MFA email delay known issue banner (Priority 1) | cb94ac9 |
 | 2026-01-15 | Reactivate Smart App Control blocking OCP banner (Priority 2) | 9fa28b6 |
 | 2026-01-15 | Remove Smart App Control OCP banner from active; archive for standby | c17b18f |
 | 2026-01-15 | Add Smart App Control blocking OCP known issue banner (Priority 2) | 637e36d |
