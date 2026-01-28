@@ -389,6 +389,7 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
+| 2026-01-26 | Add Drake desktop shortcut how-to banner (US only) | 58d0968 |
 | 2026-01-26 | Archive Admin-from-LINK and Smart App Control OCP banners (US); renumber P2-P4 | 14982ae |
 | 2026-01-26 | Add SOCi office hour delay known issue banner (US and Canada) | 1a448ff |
 | 2026-01-15 | Archive MFA email delay banner (issue resolved) | bb39299 |
