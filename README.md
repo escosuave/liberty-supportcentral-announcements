@@ -389,6 +389,8 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
+| 2026-01-26 | Archive Admin-from-LINK and Smart App Control OCP banners (US); renumber P2-P4 | 14982ae |
+| 2026-01-26 | Add SOCi office hour delay known issue banner (US and Canada) | 1a448ff |
 | 2026-01-15 | Archive MFA email delay banner (issue resolved) | bb39299 |
 | 2026-01-15 | Add Microsoft service disruption MFA email delay known issue banner (Priority 1) | cb94ac9 |
 | 2026-01-15 | Reactivate Smart App Control blocking OCP banner (Priority 2) | 9fa28b6 |
@@ -429,5 +431,5 @@ git push origin main
 
 **Ready to update? Edit `announcements-us.html` or `announcements-ca.html` and push!** 🚀
 
-*Last updated: 2026-01-15*
+*Last updated: 2026-01-26*
 
