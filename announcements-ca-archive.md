@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Scam Alert – Fake Email Account Closure (CA)
+**Priority:** 1 (Security Alert)  
+**Category:** Security Alert  
+**Topic:** Scam alert – Fake email account closure messages targeting Liberty Zeemail users  
+**Date Added:** 2026-01-29  
+**Date Removed:** 2026-02-11  
+**Reason:** Banner pulled down per request; info remains available via KB article.  
+**Article ID:** 38129607920663  
+**Article URL:** https://supportcentralcanada.libertytax.net/hc/en-us/articles/38129607920663-Scam-alert-Fake-email-account-closure-messages-targeting-Liberty-Zeemail-users
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Security Alert - Active - CA ONLY -->
+<!-- Topic: Scam alert – Fake email account closure messages targeting Liberty Zeemail users | Added: 2026-01-29 | Article: 38129607920663 (CA) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Scam alert: Fake emails claiming account closure are targeting Liberty Zeemail users. Learn how to spot and report them 
+    <a href="https://supportcentralcanada.libertytax.net/hc/en-us/articles/38129607920663-Scam-alert-Fake-email-account-closure-messages-targeting-Liberty-Zeemail-users" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Scam alert: Fake emails claiming account closure are targeting Liberty Zeemail users. Learn how to spot and report them [here](https://supportcentralcanada.libertytax.net/hc/en-us/articles/38129607920663-Scam-alert-Fake-email-account-closure-messages-targeting-Liberty-Zeemail-users).
+
+---
+
 ### Office Hour Updates Delayed in SOCi (CA)
 **Priority:** 1 (Known Issue)  
 **Category:** Known Issue  
