@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### What is the Fusion AI Assistant (US)
+**Priority:** 4 (Product Update)  
+**Category:** Product Update  
+**Topic:** What is the Fusion AI Assistant  
+**Date Added:** 2026-01-15  
+**Date Removed:** 2026-02-11  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 36949134043799  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/36949134043799-What-is-the-Fusion-AI-Assistant
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 4: Product Update - Active - US ONLY -->
+<!-- Topic: What is the Fusion AI Assistant | Added: 2026-01-15 | Article: 36949134043799 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Learn about the Fusion AI Assistant and how it can help you. Review the details 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/36949134043799-What-is-the-Fusion-AI-Assistant" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Learn about the Fusion AI Assistant and how it can help you. Review the details [here](https://supportcentral.libertytax.net/hc/en-us/articles/36949134043799-What-is-the-Fusion-AI-Assistant).
+
+---
+
 ### Scam Alert – Fake Email Account Closure (US)
 **Priority:** 1 (Security Alert)  
 **Category:** Security Alert  
