@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Federal Error 5531 On TY 2025 Returns (US)
+**Priority:** 1 (How-to)  
+**Category:** How-to  
+**Topic:** Federal Error 5531 On TY 2025 Returns  
+**Date Added:** 2026-02-14  
+**Date Removed:** 2026-02-16  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 38404895069719  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/38404895069719-Federal-Error-5531-On-TY-2025-Returns
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: How-to - Active - US ONLY -->
+<!-- Topic: IFederal Error 5531 On TY 2025 Returns | Added: 2026-02-14 | Article: 360005247714 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Federal Error 5531 On TY 2025 Returns
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/38404895069719-Federal-Error-5531-On-TY-2025-Returns" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Federal Error 5531 On TY 2025 Returns [here](https://supportcentral.libertytax.net/hc/en-us/articles/38404895069719-Federal-Error-5531-On-TY-2025-Returns).
+
+---
+
 ### What is the Fusion AI Assistant (US)
 **Priority:** 4 (Product Update)  
 **Category:** Product Update  
