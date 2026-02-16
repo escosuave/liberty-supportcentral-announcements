@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### CRA Services Unavailable February 14, 2026 (CA)
+**Priority:** 1 (Announcement)  
+**Category:** Announcement  
+**Topic:** CRA Services Unavailable February 14, 2026 (3:00 AM–5:00 PM EST)  
+**Date Added:** 2026-02-13  
+**Date Removed:** 2026-02-16  
+**Reason:** Banner decommissioned; event date passed; info remains available via KB article.  
+**Article ID:** 38390127349399  
+**Article URL:** https://supportcentralcanada.libertytax.net/hc/en-us/articles/38390127349399-CRA-Services-Unavailable-February-14-2026-3-00-AM-5-00-PM-EST
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Announcement - Active - CA only -->
+<!-- Topic: CRA Services Unavailable February 14, 2026 (3:00 AM–5:00 PM EST) | Added: 2026-02-13 | Article: 38390127349399 (CA) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Announcement: CRA Services Unavailable February 14, 2026 (3:00 AM–5:00 PM EST). Details and updates 
+    <a href="https://supportcentralcanada.libertytax.net/hc/en-us/articles/38390127349399-CRA-Services-Unavailable-February-14-2026-3-00-AM-5-00-PM-EST" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Announcement: CRA Services Unavailable February 14, 2026 (3:00 AM–5:00 PM EST). Details and updates [here](https://supportcentralcanada.libertytax.net/hc/en-us/articles/38390127349399-CRA-Services-Unavailable-February-14-2026-3-00-AM-5-00-PM-EST).
+
+---
+
 ### What is the Fusion AI Assistant (CA)
 **Priority:** 3 (Product Update)  
 **Category:** Product Update  
