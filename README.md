@@ -389,6 +389,8 @@ git push origin main
 
 | Date | Change | Commit |
 |------|--------|--------|
+| 2026-02-17 | Add known issue: Clients unable to create accounts from document upload link (US Mobile App) – Priority 1 | (pending push) |
+| 2026-01-29 | Pull down office hours known issue banner (US and CA); archive entries | de8a1ea |
 | 2026-01-26 | Add Drake desktop shortcut how-to banner (US only) | 58d0968 |
 | 2026-01-26 | Archive Admin-from-LINK and Smart App Control OCP banners (US); renumber P2-P4 | 14982ae |
 | 2026-01-26 | Add SOCi office hour delay known issue banner (US and Canada) | 1a448ff |
