@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Netspend system outage affecting card orders and inquiries (US)
+**Priority:** 2 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Netspend system outage affecting card orders and inquiries  
+**Date Added:** 2026-02-17  
+**Date Removed:** 2026-02-17  
+**Reason:** Issue resolved.  
+**Article ID:** 38508836502551  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/38508836502551-Known-issue-Netspend-system-outage-affecting-card-orders-and-inquiries
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Known Issue - Active - US ONLY -->
+<!-- Topic: Netspend system outage affecting card orders and inquiries | Added: 2026-02-17 | Article: 38508836502551 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Netspend system outage is affecting card orders and inquiries. We are aware and monitoring. Details and updates
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/38508836502551-Known-issue-Netspend-system-outage-affecting-card-orders-and-inquiries" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Netspend system outage is affecting card orders and inquiries. We are aware and monitoring. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/38508836502551-Known-issue-Netspend-system-outage-affecting-card-orders-and-inquiries).
+
+---
+
 ### Federal Error 5531 On TY 2025 Returns (US)
 **Priority:** 1 (How-to)  
 **Category:** How-to  
