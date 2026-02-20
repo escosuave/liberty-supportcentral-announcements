@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Clients unable to create accounts from document upload link (CA)
+**Priority:** 1 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Clients unable to create accounts from document upload link  
+**Date Added:** 2026-02-17  
+**Date Removed:** 2026-02-17  
+**Reason:** Archived for now; can be re-activated if needed.  
+**Article ID:** 38457983642135  
+**Article URL:** https://supportcentralcanada.libertytax.net/hc/en-us/articles/38457983642135-Known-issue-Clients-unable-to-create-accounts-from-document-upload-link
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Known Issue - Active - BOTH BRANDS -->
+<!-- Topic: Clients unable to create accounts from document upload link | Added: 2026-02-17 | Article: 38457983642135 (CA) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Clients are currently unable to create accounts when using the document upload link. We are aware and working on a fix. Details and updates
+    <a href="https://supportcentralcanada.libertytax.net/hc/en-us/articles/38457983642135-Known-issue-Clients-unable-to-create-accounts-from-document-upload-link" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Clients are currently unable to create accounts when using the document upload link. We are aware and working on a fix. Details and updates [here](https://supportcentralcanada.libertytax.net/hc/en-us/articles/38457983642135-Known-issue-Clients-unable-to-create-accounts-from-document-upload-link).
+
+---
+
 ### CRA Services Unavailable February 14, 2026 (CA)
 **Priority:** 1 (Announcement)  
 **Category:** Announcement  
