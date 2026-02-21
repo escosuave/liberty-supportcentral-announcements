@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### CRA website login errors (too many attempts, password issues) (CA)
+**Priority:** 1 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** CRA website login errors (too many attempts, password issues)  
+**Date Added:** 2026-02-11  
+**Date Removed:** 2026-02-17  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 38329357436567  
+**Article URL:** https://supportcentralcanada.libertytax.net/hc/en-us/articles/38329357436567-Known-issue-CRA-website-login-errors-Too-many-attempts-password-issues
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Known Issue - Active - CA ONLY -->
+<!-- Topic: CRA website login errors (too many attempts, password issues) | Added: 2026-02-11 | Article: 38329357436567 (CA) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: CRA website login errors (e.g. "Too many attempts," password issues). Details and updates 
+    <a href="https://supportcentralcanada.libertytax.net/hc/en-us/articles/38329357436567-Known-issue-CRA-website-login-errors-Too-many-attempts-password-issues" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: CRA website login errors (e.g. "Too many attempts," password issues). Details and updates [here](https://supportcentralcanada.libertytax.net/hc/en-us/articles/38329357436567-Known-issue-CRA-website-login-errors-Too-many-attempts-password-issues).
+
+---
+
 ### Looking for recent updates in Fusion? Start with What's New (CA)
 **Priority:** 2 (Product Update)  
 **Category:** Product Update  
