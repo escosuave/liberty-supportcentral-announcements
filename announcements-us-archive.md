@@ -15,6 +15,90 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Looking for recent updates in Fusion? Start with What's New (US)
+**Priority:** 2 (Product Update)  
+**Category:** Product Update  
+**Topic:** Looking for recent updates in Fusion? Start with What's New  
+**Date Added:** 2026-02-11  
+**Date Removed:** 2026-02-17  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 38354634096919  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/38354634096919-Looking-for-recent-updates-in-Fusion-Start-with-What-s-New
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Product Update - Active - BOTH BRANDS -->
+<!-- Topic: Looking for recent updates in Fusion? Start with What's New | Added: 2026-02-11 | Article: 38354634096919 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Looking for recent updates in Fusion? Start with What's New. Review the details 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/38354634096919-Looking-for-recent-updates-in-Fusion-Start-with-What-s-New" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Looking for recent updates in Fusion? Start with What's New. Review the details [here](https://supportcentral.libertytax.net/hc/en-us/articles/38354634096919-Looking-for-recent-updates-in-Fusion-Start-with-What-s-New).
+
+---
+
+### How do I enter Schedule 1-A deductions in Fusion? (US)
+**Priority:** 3 (Product Update)  
+**Category:** Product Update  
+**Topic:** How do I enter Schedule 1-A deductions in Fusion?  
+**Date Added:** 2026-01-15  
+**Date Removed:** 2026-02-17  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 36888051309207  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/36888051309207-Schedule-1-A-Input-Cheat-Sheet
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 3: Product Update - Active - US ONLY -->
+<!-- Topic: How do I enter Schedule 1-A deductions in Fusion? | Added: 2026-01-15 | Article: 36888051309207 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Learn how to enter Schedule 1-A deductions in Fusion 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/36888051309207-Schedule-1-A-Input-Cheat-Sheet" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Learn how to enter Schedule 1-A deductions in Fusion [here](https://supportcentral.libertytax.net/hc/en-us/articles/36888051309207-Schedule-1-A-Input-Cheat-Sheet).
+
+---
+
+### See What's New in Fusion Vantage Reporting (US)
+**Priority:** 4 (Product Update)  
+**Category:** Product Update  
+**Topic:** See What's New in Fusion Vantage Reporting  
+**Date Added:** 2026-01-02  
+**Date Removed:** 2026-02-17  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 37502407705495  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/37502407705495-New-Fusion-Vantage-Reporting-Guidance
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 4: Product Update - Active - US ONLY -->
+<!-- Topic: See What's New in Fusion Vantage Reporting | Added: 2026-01-02 | Article: 37502407705495 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    See what's new in Fusion Vantage Reporting. Review the latest guidance 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/37502407705495-New-Fusion-Vantage-Reporting-Guidance" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> See what's new in Fusion Vantage Reporting. Review the latest guidance [here](https://supportcentral.libertytax.net/hc/en-us/articles/37502407705495-New-Fusion-Vantage-Reporting-Guidance).
+
+---
+
 ### Clients unable to create accounts from document upload link (US)
 **Priority:** 1 (Known Issue)  
 **Category:** Known Issue  

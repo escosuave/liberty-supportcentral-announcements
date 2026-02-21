@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Looking for recent updates in Fusion? Start with What's New (CA)
+**Priority:** 2 (Product Update)  
+**Category:** Product Update  
+**Topic:** Looking for recent updates in Fusion? Start with What's New  
+**Date Added:** 2026-02-11  
+**Date Removed:** 2026-02-17  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 38354634096919  
+**Article URL:** https://supportcentralcanada.libertytax.net/hc/en-us/articles/38354634096919-Looking-for-recent-updates-in-Fusion-Start-with-What-s-New
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Product Update - Active - BOTH BRANDS -->
+<!-- Topic: Looking for recent updates in Fusion? Start with What's New | Added: 2026-02-11 | Article: 38354634096919 (CA) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Looking for recent updates in Fusion? Start with What's New. Review the details 
+    <a href="https://supportcentralcanada.libertytax.net/hc/en-us/articles/38354634096919-Looking-for-recent-updates-in-Fusion-Start-with-What-s-New" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Looking for recent updates in Fusion? Start with What's New. Review the details [here](https://supportcentralcanada.libertytax.net/hc/en-us/articles/38354634096919-Looking-for-recent-updates-in-Fusion-Start-with-What-s-New).
+
+---
+
 ### Clients unable to create accounts from document upload link (CA)
 **Priority:** 1 (Known Issue)  
 **Category:** Known Issue  
