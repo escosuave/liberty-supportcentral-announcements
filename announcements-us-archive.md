@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Disbursement options for VA state returns in Fusion do not allow direct deposit (US)
+**Priority:** 1 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Disbursement options for VA state returns in Fusion do not allow direct deposit  
+**Date Added:** 2026-02-17  
+**Date Removed:** 2026-02-17  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 38935424016151  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/38935424016151-Known-Issue-Disbursement-options-for-VA-state-returns-in-Fusion-do-not-allow-direct-deposit
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Known Issue - Active - US ONLY -->
+<!-- Topic: Disbursement options for VA state returns in Fusion do not allow direct deposit | Added: 2026-02-17 | Article: 38935424016151 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Disbursement options for Virginia state returns in Fusion do not allow direct deposit. We are aware and working on a fix. Details and updates
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/38935424016151-Known-Issue-Disbursement-options-for-VA-state-returns-in-Fusion-do-not-allow-direct-deposit" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Disbursement options for Virginia state returns in Fusion do not allow direct deposit. We are aware and working on a fix. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/38935424016151-Known-Issue-Disbursement-options-for-VA-state-returns-in-Fusion-do-not-allow-direct-deposit).
+
+---
+
 ### Federal Error 5531 On TY 2025 Returns (US)
 **Priority:** 1 (How-to)  
 **Category:** How-to  
