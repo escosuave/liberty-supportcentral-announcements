@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### API126 and PB76 errors in Drake (US)
+**Priority:** 2 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** API126 and PB76 errors in Drake  
+**Date Added:** 2026-02-17  
+**Date Removed:** 2026-02-17  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 38932648616087  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/38932648616087-Known-Issue-API126-and-PB76-Errors-in-Drake
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Known Issue - Active - US ONLY -->
+<!-- Topic: API126 and PB76 errors in Drake | Added: 2026-02-17 | Article: 38932648616087 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: API126 and PB76 errors in Drake. We are aware and working on a fix. Details and updates
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/38932648616087-Known-Issue-API126-and-PB76-Errors-in-Drake" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: API126 and PB76 errors in Drake. We are aware and working on a fix. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/38932648616087-Known-Issue-API126-and-PB76-Errors-in-Drake).
+
+---
+
 ### Disbursement options for VA state returns in Fusion do not allow direct deposit (US)
 **Priority:** 1 (Known Issue)  
 **Category:** Known Issue  
