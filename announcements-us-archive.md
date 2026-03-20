@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### UNVER error that cannot be cleared (US)
+**Priority:** 1 (How-to)  
+**Category:** How-to  
+**Topic:** Some returns are presenting an UNVER error that cannot be cleared.  
+**Date Added:** 2026-02-17  
+**Date Removed:** 2026-02-19  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 39140988911383  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/39140988911383-Error-UNVER
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: How-to - Active - US ONLY -->
+<!-- Topic: Some returns are presenting an UNVER error that cannot be cleared. | Added: 2026-02-17 | Article: 39140988911383 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Some returns are presenting an UNVER error that cannot be cleared. Review the details 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/39140988911383-Error-UNVER" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Some returns are presenting an UNVER error that cannot be cleared. Review the details [here](https://supportcentral.libertytax.net/hc/en-us/articles/39140988911383-Error-UNVER).
+
+---
+
 ### Ohio 1040 rejection – OH-IT1040-164 and OH-IT1040-165 (US)
 **Priority:** 1 (Known Issue)  
 **Category:** Known Issue  
