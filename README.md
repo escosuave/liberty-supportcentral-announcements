@@ -13,6 +13,8 @@ This repository contains the **announcement banners** that appear on the Liberty
 - Login problems
 - Process changes
 
+**Testing the pipeline (theme fetch, smoke banner, troubleshooting):** see [`TESTING_AND_DEBUG.md`](TESTING_AND_DEBUG.md).
+
 ---
 
 ## 🚀 Quick Start
