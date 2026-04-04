@@ -15,6 +15,33 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Fusion / AMS performance — slow page loads (systems status) (CA)
+**Priority:** 1 (Systems status / Info)  
+**Category:** Systems status  
+**Topic:** Fusion slow loads, AMS appointment page load times  
+**Date Added:** 2026-04-01  
+**Date Removed:** 2026-04-04  
+**Reason:** Issue confirmed resolved; systems status banner retired. No KB article.  
+**Article ID:** none  
+**Article URL:** none  
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Systems status / Info - Active - US and CA (same message) -->
+<!-- Topic: Fusion slow loads, AMS appointment page load times | Added: 2026-04-01 | Article: none (systems status) -->
+<div style="background-color:#2E485E; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#2E485E; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    We are aware of Fusion performance issues, including slow page loads, and slow AMS appointment page loading times. The development team is working on a solution. Thank you for your patience.
+  </span>
+</div>
+```
+
+**Display Text:**
+> We are aware of Fusion performance issues, including slow page loads, and slow AMS appointment page loading times. The development team is working on a solution. Thank you for your patience.
+
+---
+
 ### CRA website login errors (too many attempts, password issues) (CA)
 **Priority:** 1 (Known Issue)  
 **Category:** Known Issue  
