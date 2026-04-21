@@ -15,6 +15,62 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Federal error codes in Fusion — error 5572 callout (US)
+**Priority:** 1 (How-to / Info)  
+**Category:** How-to / Info  
+**Topic:** Federal error codes in Fusion — callout to error 5572  
+**Date Added:** 2026-04-04  
+**Date Removed:** 2026-04-21  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 17823340285847  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/17823340285847-Where-can-I-learn-about-various-federal-error-codes-In-Fusion
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: How-to / Info - Active - US ONLY -->
+<!-- Topic: Federal error codes in Fusion — callout to error 5572 | Added: 2026-04-04 | Article: 17823340285847 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Seeing error 5572 in Fusion? Review this and other common federal error codes
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/17823340285847-Where-can-I-learn-about-various-federal-error-codes-In-Fusion" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Seeing error 5572 in Fusion? Review this and other common federal error codes [here](https://supportcentral.libertytax.net/hc/en-us/articles/17823340285847-Where-can-I-learn-about-various-federal-error-codes-In-Fusion).
+
+---
+
+### Syncing Drake Desktop data — learn how and why (US)
+**Priority:** 2 (How-to)  
+**Category:** How-to  
+**Topic:** Add syncing Drake Desktop data to your daily routine, learn how and why  
+**Date Added:** 2026-02-17  
+**Date Removed:** 2026-04-21  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 38576408816791  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/38576408816791-How-do-I-sync-data-in-Drake-Desktop-for-acknowledgements-and-updates
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: How-to - Active - US ONLY -->
+<!-- Topic: Add syncing Drake Desktop data to your daily routine, learn how and why | Added: 2026-02-17 | Article: 38576408816791 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Add syncing Drake Desktop data to your daily routine: learn how and why. Review the details 
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/38576408816791-How-do-I-sync-data-in-Drake-Desktop-for-acknowledgements-and-updates" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Add syncing Drake Desktop data to your daily routine: learn how and why. Review the details [here](https://supportcentral.libertytax.net/hc/en-us/articles/38576408816791-How-do-I-sync-data-in-Drake-Desktop-for-acknowledgements-and-updates).
+
+---
+
 ### Fusion / AMS performance — slow page loads (systems status) (US)
 **Priority:** 1 (Systems status / Info)  
 **Category:** Systems status  
