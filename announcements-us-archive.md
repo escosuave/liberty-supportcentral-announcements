@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### End of fiscal year GRR — reconcile April GRR (US)
+**Priority:** 2 (Franchise reminder / Info)  
+**Category:** Franchise reminder / Info  
+**Topic:** End of fiscal year GRR — reconcile April GRR  
+**Date Added:** 2026-04-30  
+**Date Removed:** 2026-05-28  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 23345853367319  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/23345853367319-Reconciling-April-GRR
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Franchise reminder / Info - Active - US ONLY -->
+<!-- Topic: End of fiscal year GRR — reconcile April GRR | Added: 2026-04-30 | Article: 23345853367319 (US) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Franchisees: with fiscal year-end approaching, remember to complete your GRR. Review reconciling April GRR
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/23345853367319-Reconciling-April-GRR" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Franchisees: with fiscal year-end approaching, remember to complete your GRR. Review reconciling April GRR [here](https://supportcentral.libertytax.net/hc/en-us/articles/23345853367319-Reconciling-April-GRR).
+
+---
+
 ### Federal error codes in Fusion — error 5572 callout (US)
 **Priority:** 1 (How-to / Info)  
 **Category:** How-to / Info  
