@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Known error — An Error Occurred (US)
+**Priority:** 2 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Known error — An Error Occurred  
+**Date Added:** 2026-06-01  
+**Date Removed:** 2026-06-03  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 40882647523735  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/40882647523735-Known-Error-An-Error-Occured
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 2: Known Issue - Active - US ONLY -->
+<!-- Topic: Known error — An Error Occurred | Added: 2026-06-01 | Article: 40882647523735 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: An error occurred message. We are aware and working on a fix. Details and updates
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/40882647523735-Known-Error-An-Error-Occured" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: An error occurred message. We are aware and working on a fix. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/40882647523735-Known-Error-An-Error-Occured).
+
+---
+
 ### End of fiscal year GRR — reconcile April GRR (US)
 **Priority:** 2 (Franchise reminder / Info)  
 **Category:** Franchise reminder / Info  
