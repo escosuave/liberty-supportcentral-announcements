@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Fusion error — unable to sign or mark return Ready to File (US)
+**Priority:** 1 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Fusion error — unable to sign or mark return Ready to File  
+**Date Added:** 2026-06-18  
+**Date Removed:** 2026-06-18  
+**Reason:** Dev and field confirmed resolved; banner retired. KB article remains available.  
+**Article ID:** 41319048430103  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/41319048430103-Fusion-Error-You-are-unable-to-sign-or-mark-this-return-Ready-to-File
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Known Issue - Active - US ONLY -->
+<!-- Topic: Fusion error — unable to sign or mark return Ready to File | Added: 2026-06-18 | Article: 41319048430103 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: Unable to sign or mark this return Ready to File in Fusion. We are aware and working on a fix. Details and updates
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/41319048430103-Fusion-Error-You-are-unable-to-sign-or-mark-this-return-Ready-to-File" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: Unable to sign or mark this return Ready to File in Fusion. We are aware and working on a fix. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/41319048430103-Fusion-Error-You-are-unable-to-sign-or-mark-this-return-Ready-to-File).
+
+---
+
 ### E-File Wrap-Up Warning — critical known issue (US)
 **Priority:** 1 (Known Issue — Critical)  
 **Category:** Known Issue  
