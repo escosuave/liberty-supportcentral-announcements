@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### LINK missing mandatory fields error during Liberty SSO sign-in (CA)
+**Priority:** 1 (Info / How-to)  
+**Category:** Info / How-to  
+**Topic:** LINK missing mandatory fields error during Liberty SSO sign-in  
+**Date Added:** 2026-06-24  
+**Date Removed:** 2026-06-25  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 41461128135063  
+**Article URL:** https://supportcentralcanada.libertytax.net/hc/en-us/articles/41461128135063-Why-does-LINK-show-a-missing-mandatory-fields-error-during-Liberty-SSO-sign-in
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Info / How-to - Active - CA ONLY -->
+<!-- Topic: LINK missing mandatory fields error during Liberty SSO sign-in | Added: 2026-06-24 | Article: 41461128135063 (CA) -->
+<div style="background-color:#2E485E; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#2E485E; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    LINK showing a missing mandatory fields error during Liberty SSO sign-in? Review troubleshooting steps
+    <a href="https://supportcentralcanada.libertytax.net/hc/en-us/articles/41461128135063-Why-does-LINK-show-a-missing-mandatory-fields-error-during-Liberty-SSO-sign-in" style="color:#fff; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> LINK showing a missing mandatory fields error during Liberty SSO sign-in? Review troubleshooting steps [here](https://supportcentralcanada.libertytax.net/hc/en-us/articles/41461128135063-Why-does-LINK-show-a-missing-mandatory-fields-error-during-Liberty-SSO-sign-in).
+
+---
+
 ### Fusion / AMS performance — slow page loads (systems status) (CA)
 **Priority:** 1 (Systems status / Info)  
 **Category:** Systems status  
