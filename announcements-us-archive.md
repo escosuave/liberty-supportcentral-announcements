@@ -15,6 +15,34 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Fusion — No forms to e-file error for 2025 state-only amendments (US)
+**Priority:** 1 (Known Issue)  
+**Category:** Known Issue  
+**Topic:** Fusion — No forms to e-file error for 2025 state-only amendments  
+**Date Added:** 2026-06-24  
+**Date Removed:** 2026-06-26  
+**Reason:** Banner decommissioned; info remains available via KB article.  
+**Article ID:** 41466053748887  
+**Article URL:** https://supportcentral.libertytax.net/hc/en-us/articles/41466053748887-Fusion-No-forms-to-e-file-error-for-2025-state-only-amendments
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Known Issue - Active - US ONLY -->
+<!-- Topic: Fusion — No forms to e-file error for 2025 state-only amendments | Added: 2026-06-24 | Article: 41466053748887 (US) -->
+<div style="background-color:#FF0000; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#FF0000; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Known issue: No forms to e-file error for 2025 state-only amendments in Fusion. We are aware and working on a fix. Details and updates
+    <a href="https://supportcentral.libertytax.net/hc/en-us/articles/41466053748887-Fusion-No-forms-to-e-file-error-for-2025-state-only-amendments" style="color:#000; text-decoration:underline;">here</a>.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Known issue: No forms to e-file error for 2025 state-only amendments in Fusion. We are aware and working on a fix. Details and updates [here](https://supportcentral.libertytax.net/hc/en-us/articles/41466053748887-Fusion-No-forms-to-e-file-error-for-2025-state-only-amendments).
+
+---
+
 ### Fusion error — unable to sign or mark return Ready to File (US)
 **Priority:** 1 (Known Issue)  
 **Category:** Known Issue  
