@@ -15,6 +15,33 @@ This file archives announcements that have been removed from the active `announc
 
 ## Archive Entries
 
+### Maintenance — tax years 2020–2022 unavailable (US)
+**Priority:** 1 (Systems maintenance / Info)  
+**Category:** Systems maintenance  
+**Topic:** Maintenance — tax years 2020–2022 unavailable 6/29 9PM–6/30 8AM ET  
+**Date Added:** 2026-06-30  
+**Date Removed:** 2026-06-30  
+**Reason:** Maintenance window complete; banner retired.  
+**Article ID:** none  
+**Article URL:** none  
+
+**Original Announcement:**
+```html
+<!-- PRIORITY 1: Systems maintenance / Info - Active - US ONLY -->
+<!-- Topic: Maintenance — tax years 2020–2022 unavailable 6/29 9PM–6/30 8AM ET | Added: 2026-06-30 | Article: none (systems maintenance) -->
+<div style="background-color:#42a5f5; color:white; padding:10px 15px; border-radius:6px; font-family:Arial, sans-serif; display:flex; align-items:center;">
+  <span style="background-color:white; color:#42a5f5; border-radius:50%; width:20px; height:20px; display:flex; align-items:center; justify-content:center; font-weight:bold; margin-right:10px;">i</span>
+  <span>
+    Our team will be performing maintenance on tax years 2020–2022 from 9:00 PM ET on June 29, 2026 until approximately 8:00 AM ET on June 30, 2026. These tax years will be unavailable during this time.
+  </span>
+</div>
+```
+
+**Display Text:**
+> Our team will be performing maintenance on tax years 2020–2022 from 9:00 PM ET on June 29, 2026 until approximately 8:00 AM ET on June 30, 2026. These tax years will be unavailable during this time.
+
+---
+
 ### Fusion — No forms to e-file error for 2025 state-only amendments (US)
 **Priority:** 1 (Known Issue)  
 **Category:** Known Issue  
